@@ -1,0 +1,31 @@
+Execution Time: 36003.384758
+Status: Feasible
+---------------------
+soft0 value: 0
+soft1 value: 0
+soft2 value: 0
+soft3 value: 0
+soft4 value: 0
+soft5 value: 0
+soft6 value: 0
+soft7 value: 0
+soft8 value: 0
+soft9 value: 0
+---------------------
+Sum soft value: 0
+obj0 value: 0
+obj1 value: -1
+obj2 value: 0
+obj3 value: -2
+obj4 value: 0
+obj5 value: 0
+obj6 value: 0
+obj7 value: -1
+obj8 value: 0
+obj9 value: -1
+obj10 value: -2
+obj11 value: 0
+obj12 value: 0
+obj13 value: 0
+---------------------
+Sum obj value: -7
